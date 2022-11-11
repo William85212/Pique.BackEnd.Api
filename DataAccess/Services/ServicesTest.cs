@@ -12,6 +12,7 @@ using ToolBox.Database;
 
 namespace DataAccess.Services
 {
+    //add comment test Azure
     public class ServicesTest : IServicesTest
     {
         private Connection _connection;
